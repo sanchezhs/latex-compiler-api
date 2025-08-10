@@ -1,0 +1,15 @@
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.git
+.gitignore
+.env
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+
